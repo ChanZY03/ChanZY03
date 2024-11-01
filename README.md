@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChanZY03
-- 🌱 I’m currently learning C# + ASP.NET Framework
+- 🌱 I’m currently learning Android Studio Kotlin and Doing Final Year Project with AI
 - 📫 Reach me using Email: zhiyongchan030914@gmail.com
 
 <!---
