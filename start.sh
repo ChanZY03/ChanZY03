@@ -1,1 +1,1 @@
-python moodAnalysis.py
+python app.py
