@@ -1,0 +1,10 @@
+Flask
+gunicorn
+tensorflow
+gradio
+numpy
+pandas
+keras
+scikit-learn
+requests
+h5py
